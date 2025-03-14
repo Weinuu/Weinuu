@@ -22,9 +22,9 @@ I work as a data analyst and annotator at the moment.<br>I was an AI trainer as 
 [![](https://visitcount.itsvg.in/api?id=Wen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Weinuu/Weinuu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Weinuu/Weinuu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Weinuu/Weinuu/output/github-snake.svg" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
